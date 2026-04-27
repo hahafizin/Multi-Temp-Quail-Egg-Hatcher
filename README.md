@@ -33,20 +33,14 @@ The system works by constantly polling the DHT11 sensor.
 1. **Temperature Control:** If the temperature falls below the phase profile, the K4107 MOSFET triggers the Kanthal wire heater. The DC fan ensures even heat distribution.
 2. **Humidity Control:** If humidity is low, the ultrasonic humidifier creates fine water droplets to increase moisture. It stops automatically once the threshold is reached.
 
-> **Note:** Place your product design image here.
 > <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/bb0e9bde-ddef-4537-bfdd-0f360902f58f" />
-
 
 ## 📊 Results and Discussion
 The project successfully hatched quail eggs within approximately **18 days**. 
 - **Stability:** The PID-like control maintained temperature and humidity within the appropriate range throughout all 3 phases.
 - **Connectivity:** The Telegram bot provided seamless data transmission without errors, allowing for 24/7 remote monitoring.
 
-> **Note:** Place your success photo here.
 > <img width="444" height="333" alt="image" src="https://github.com/user-attachments/assets/318c3c23-9a2e-4e04-aa40-922fec9ef579" />
-
-
-
 
 ## 👥 Authors
 - **Muhammad Hafizin bin Saibol Jahar** - *Main Developer* ([muhammadhafizin78@gmail.com](mailto:muhammadhafizin78@gmail.com))
