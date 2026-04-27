@@ -43,11 +43,9 @@ char     ssid[] = "hahfizin";
 //SSID password
 char password[] = "passwordbaru";
 //BOT token
-//#define BOTtoken "5479682957:AAFcvm9etx7paWhLyqY5co4ijWjL7-KELbw"  //hahafizinbot
-char BOTtoken[] = "5617596844:AAFqx1gfNvNJ2W2iJvTb6GAuUyyuNfUeO2I";  //eggincubatorbot
+char BOTtoken[] = "";  //eggincubatorbot
 //chat ID
-char CHAT_ID[] = "936077087"; //hahafizinbot
-//#define CHAT_ID "-1001811075374" //channel
+char CHAT_ID[] = ""; //hahafizinbot
 
 //utp
 const long utcOffsetInSeconds = 0;
