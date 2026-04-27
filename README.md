@@ -34,7 +34,7 @@ The system works by constantly polling the DHT11 sensor.
 2. **Humidity Control:** If humidity is low, the ultrasonic humidifier creates fine water droplets to increase moisture. It stops automatically once the threshold is reached.
 
 > <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/bb0e9bde-ddef-4537-bfdd-0f360902f58f" />
-> [![Tajuk Video](https://img.youtube.com/vi/lFxzeUiik-c/0.jpg)](https://www.youtube.com/watch?v=lFxzeUiik-c)
+[![Tajuk Video](https://img.youtube.com/vi/lFxzeUiik-c/0.jpg)](https://www.youtube.com/watch?v=lFxzeUiik-c)
 
 ## 📊 Results and Discussion
 The project successfully hatched quail eggs within approximately **18 days**. 
